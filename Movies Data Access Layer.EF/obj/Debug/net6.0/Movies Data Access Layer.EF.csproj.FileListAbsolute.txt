@@ -1,0 +1,51 @@
+E:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.deps.json
+E:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.runtimeconfig.json
+E:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.dll
+E:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.pdb
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.AssemblyReference.cache
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.AssemblyInfoInputs.cache
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.AssemblyInfo.cs
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.CoreCompileInputs.cache
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.dll
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\refint\Movies Data Access Layer.EF.dll
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.pdb
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.genruntimeconfig.cache
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\ref\Movies Data Access Layer.EF.dll
+E:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Core Layer.dll
+E:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Core Layer.pdb
+E:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.CopyComplete
+D:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.deps.json
+D:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.runtimeconfig.json
+D:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.pdb
+D:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.AssemblyInfo.cs
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.CopyComplete
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\refint\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.pdb
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.genruntimeconfig.cache
+D:\Abdelhay projects\Movies Data Access Layer.EF\obj\Debug\net6.0\ref\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.deps.json
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.runtimeconfig.json
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Data Access Layer.EF.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\bin\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.AssemblyInfo.cs
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.csproj.CopyComplete
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\refint\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\Movies Data Access Layer.EF.genruntimeconfig.cache
+D:\Abdelhay projects\Moveis api with repo\Movies Data Access Layer.EF\obj\Debug\net6.0\ref\Movies Data Access Layer.EF.dll

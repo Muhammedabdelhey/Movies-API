@@ -1,0 +1,12 @@
+D:\Abdelhay projects\Movies Core Layer\bin\Release\net6.0\Movies Core Layer.deps.json
+D:\Abdelhay projects\Movies Core Layer\bin\Release\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Movies Core Layer\bin\Release\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\Movies Core Layer.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\Movies Core Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\Movies Core Layer.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\Movies Core Layer.AssemblyInfo.cs
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\Movies Core Layer.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\refint\Movies Core Layer.dll
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Movies Core Layer\obj\Release\net6.0\ref\Movies Core Layer.dll

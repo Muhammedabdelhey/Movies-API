@@ -1,0 +1,268 @@
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\appsettings.Development.json
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\appsettings.json
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.exe
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.deps.json
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.runtimeconfig.json
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.pdb
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Azure.Core.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Azure.Identity.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Humanizer.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.CodeDom.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Text.Json.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Data Access Layer.EF.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Data Access Layer.EF.pdb
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.AssemblyReference.cache
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.AssemblyInfoInputs.cache
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.AssemblyInfo.cs
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.CoreCompileInputs.cache
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.MvcApplicationPartsAssemblyInfo.cs
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.MvcApplicationPartsAssemblyInfo.cache
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets\msbuild.Movies Presentation Layer.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets\msbuild.build.Movies Presentation Layer.props
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Movies Presentation Layer.props
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Movies Presentation Layer.props
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets.build.json
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets.development.json
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\scopedcss\bundle\Movies Presentation Layer.styles.css
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.CopyComplete
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\refint\Movies Presentation Layer.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.pdb
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.genruntimeconfig.cache
+E:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\ref\Movies Presentation Layer.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Core Layer.dll
+E:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\appsettings.Development.json
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\appsettings.json
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.exe
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.deps.json
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.runtimeconfig.json
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.pdb
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Azure.Core.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Azure.Identity.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Humanizer.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.CodeDom.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Text.Json.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Data Access Layer.EF.pdb
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.AssemblyInfo.cs
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets.build.json
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets.development.json
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\scopedcss\bundle\Movies Presentation Layer.styles.css
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.CopyComplete
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\refint\Movies Presentation Layer.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.pdb
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.genruntimeconfig.cache
+D:\Abdelhay projects\Movies With Reopsitory Pattren\obj\Debug\net6.0\ref\Movies Presentation Layer.dll
+D:\Abdelhay projects\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\appsettings.Development.json
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\appsettings.json
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.exe
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.deps.json
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.runtimeconfig.json
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Presentation Layer.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Azure.Core.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Azure.Identity.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Humanizer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.CodeDom.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Text.Json.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Data Access Layer.EF.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Data Access Layer.EF.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\bin\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.AssemblyInfo.cs
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.MvcApplicationPartsAssemblyInfo.cs
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.MvcApplicationPartsAssemblyInfo.cache
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets.build.json
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\staticwebassets.development.json
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\scopedcss\bundle\Movies Presentation Layer.styles.css
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.csproj.CopyComplete
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\refint\Movies Presentation Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\Movies Presentation Layer.genruntimeconfig.cache
+D:\Abdelhay projects\Moveis api with repo\Movies With Reopsitory Pattren\obj\Debug\net6.0\ref\Movies Presentation Layer.dll

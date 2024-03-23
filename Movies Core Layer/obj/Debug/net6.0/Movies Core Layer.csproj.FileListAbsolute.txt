@@ -1,0 +1,36 @@
+E:\Abdelhay projects\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.deps.json
+E:\Abdelhay projects\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.dll
+E:\Abdelhay projects\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.pdb
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.GeneratedMSBuildEditorConfig.editorconfig
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.AssemblyInfoInputs.cache
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.AssemblyInfo.cs
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.csproj.CoreCompileInputs.cache
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.dll
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\refint\Movies Core Layer.dll
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.pdb
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\ref\Movies Core Layer.dll
+E:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.deps.json
+D:\Abdelhay projects\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.AssemblyInfo.cs
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\refint\Movies Core Layer.dll
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Movies Core Layer\obj\Debug\net6.0\ref\Movies Core Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.deps.json
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\bin\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.csproj.AssemblyReference.cache
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.AssemblyInfoInputs.cache
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.AssemblyInfo.cs
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.csproj.CoreCompileInputs.cache
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\refint\Movies Core Layer.dll
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\Movies Core Layer.pdb
+D:\Abdelhay projects\Moveis api with repo\Movies Core Layer\obj\Debug\net6.0\ref\Movies Core Layer.dll
