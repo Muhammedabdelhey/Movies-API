@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Movies Core Layer/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "6.0.0-preview.4.21253.5",
+          "Microsoft.Extensions.Primitives": "9.0.0-preview.2.24128.5",
+          "System.IO.Pipelines": "9.0.0-preview.2.24128.5"
+        },
+        "runtime": {
+          "Movies Core Layer.dll": {}
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/6.0.0-preview.4.21253.5": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "9.0.0-preview.2.24128.5",
+          "System.IO.Pipelines": "9.0.0-preview.2.24128.5"
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "assemblyVersion": "6.0.0.0",
+            "fileVersion": "6.0.21.25305"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/9.0.0-preview.2.24128.5": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.12805"
+          }
+        }
+      },
+      "System.IO.Pipelines/9.0.0-preview.2.24128.5": {
+        "runtime": {
+          "lib/net8.0/System.IO.Pipelines.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.24.12805"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Movies Core Layer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Http.Features/6.0.0-preview.4.21253.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-R3MUGcafdytxU9Bv5PWy46MPlHtPLgjCX9ay+Y7VPyvaxtpCijz6tMBUPletOUeAcmyYpwBgWU1FwdyuZn0n8w==",
+      "path": "microsoft.aspnetcore.http.features/6.0.0-preview.4.21253.5",
+      "hashPath": "microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/9.0.0-preview.2.24128.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-9MTM5p0U66zXk205iDOY9qFuGR8NRXjbcQbpfTyhwaecnysToHxD7vKJ2LfdnzH4Msj1vSQ+M1bqdE82W4Y6JA==",
+      "path": "microsoft.extensions.primitives/9.0.0-preview.2.24128.5",
+      "hashPath": "microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512"
+    },
+    "System.IO.Pipelines/9.0.0-preview.2.24128.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-2B9bX/aFrfaZNgXzzw5/TvwvSvXPsFclvMmCG1MGQzntiyK8ulvjmSLc2WASD84wxgm2fbY9zMocHkSR8lg7+g==",
+      "path": "system.io.pipelines/9.0.0-preview.2.24128.5",
+      "hashPath": "system.io.pipelines.9.0.0-preview.2.24128.5.nupkg.sha512"
+    }
+  }
+}

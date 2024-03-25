@@ -1,13 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "WALfj6BPbXBVFHmnYDM0ls3Ns51Ta57T5/nZe2enn1xPB1JvBs6tlaHvc426LDuDgcGEs6LFm9GnMeWTqgwfUA==",
+  "dgSpecHash": "SrLAGIdAz7uA3lCry4t7uV/2Xb6GwNDXnh9V0co0j2wQpINEQFI041zOpv5wTjgsTitUOnBm7AtX0uXWKHx7rg==",
   "success": true,
-  "projectFilePath": "D:\\Abdelhay projects\\Moveis api with repo\\Movies Core Layer\\Movies Core Layer.csproj",
+  "projectFilePath": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Movies Core Layer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ticket-PC1\\.nuget\\packages\\microsoft.aspnetcore.http.features\\6.0.0-preview.4.21253.5\\microsoft.aspnetcore.http.features.6.0.0-preview.4.21253.5.nupkg.sha512",
-    "C:\\Users\\Ticket-PC1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0-preview.4.21253.7\\microsoft.extensions.primitives.6.0.0-preview.4.21253.7.nupkg.sha512",
-    "C:\\Users\\Ticket-PC1\\.nuget\\packages\\system.io.pipelines\\6.0.0-preview.4.21253.7\\system.io.pipelines.6.0.0-preview.4.21253.7.nupkg.sha512",
-    "C:\\Users\\Ticket-PC1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0-preview.4.21253.7\\system.runtime.compilerservices.unsafe.6.0.0-preview.4.21253.7.nupkg.sha512"
+    "C:\\Users\\Ticket-PC1\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0-preview.2.24128.5\\microsoft.extensions.primitives.9.0.0-preview.2.24128.5.nupkg.sha512",
+    "C:\\Users\\Ticket-PC1\\.nuget\\packages\\system.io.pipelines\\9.0.0-preview.2.24128.5\\system.io.pipelines.9.0.0-preview.2.24128.5.nupkg.sha512"
   ],
   "logs": []
 }
