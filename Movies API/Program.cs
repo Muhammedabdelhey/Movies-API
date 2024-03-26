@@ -76,8 +76,8 @@ builder.Services.AddControllers(options => options.Filters.Add<LogActivityFilter
 // add your Authentication scheme 
 // first parm  AuthenticationSchemeOptions is standerd options , sec your auth handelr (Logic) you will find this class in Presentation Layer in Authentication folder
 // you can add many scheme , to detrmaine what default one pass scheme name 
-builder.Services.AddAuthentication("Basic")
-    .AddScheme<AuthenticationSchemeOptions, BasicAuthenticationHandler>("Basic", null);
+//builder.Services.AddAuthentication("Basic")
+//    .AddScheme<AuthenticationSchemeOptions, BasicAuthenticationHandler>("Basic", null);
 #endregion
 
 #region JWTBearerToken Authentication
@@ -87,11 +87,12 @@ var JwtOptions = builder.Configuration.GetSection("Jwt").Get<JwtOptions>();
 builder.Services.AddSingleton(JwtOptions);
 // first parm AuthenticationScheme ,sec options of creating token 
 builder.Services.AddAuthentication().AddJwtBearer(JwtBearerDefaults.AuthenticationScheme, options =>
-{
+{   // save token on request
     options.SaveToken = true;
     // this options show how our system Validate Token 
     options.TokenValidationParameters = new TokenValidationParameters
     {
+        //issuer and audience can by array ValidIssuers and VaildAudiences
         ValidateIssuer = true,
         ValidIssuer = JwtOptions.Issuer,
         ValidateAudience = true,
@@ -100,7 +101,6 @@ builder.Services.AddAuthentication().AddJwtBearer(JwtBearerDefaults.Authenticati
         //we craete signing key should converted to bytes here 
         IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtOptions.SigningKey)) 
     };
-
 });
 #endregion
 
