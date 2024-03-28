@@ -18,6 +18,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
+		<ProjectReference Include="..\Movies Core Layer\Movies Core Layer.csproj" />
 		<ProjectReference Include="..\Movies Data Access Layer.EF\Movies Data Access Layer.EF.csproj" />
 	</ItemGroup>
 

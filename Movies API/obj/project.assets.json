@@ -4523,6 +4523,7 @@
     "net8.0": [
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 9.0.0-preview.2.24128.4",
+      "Movies Core Layer >= 1.0.0",
       "Movies Data Access Layer.EF >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -4554,13 +4555,16 @@
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Movies Core Layer.csproj": {
+              "projectPath": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Movies Core Layer.csproj"
+            },
             "D:\\Abdelhay projects\\Movies-API\\Movies Data Access Layer.EF\\Movies Data Access Layer.EF.csproj": {
               "projectPath": "D:\\Abdelhay projects\\Movies-API\\Movies Data Access Layer.EF\\Movies Data Access Layer.EF.csproj"
             }

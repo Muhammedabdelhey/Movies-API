@@ -15,7 +15,7 @@ namespace Movies_Presentation_Layer.Controllers
     {
         //private readonly IBaseRepository<User> _userRepository;
         //private readonly JwtOptions _jwtOptions;
-        //public AuthController(IBaseRepository<User> userRepository ,JwtOptions jwtOptions)
+        //public AuthController(IBaseRepository<User> userRepository, JwtOptions jwtOptions)
         //{
         //    _userRepository = userRepository;
         //    _jwtOptions = jwtOptions;
@@ -26,7 +26,7 @@ namespace Movies_Presentation_Layer.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest(ModelState.Values.SelectMany(value => value.Errors));
+                return BadRequest(ModelState.Values);
             }
             User user = new User { Name = userDto.Name, Email = userDto.Email, Password = userDto.Password };
             var result = await _userRepository.AddAsync(user);
@@ -42,7 +42,7 @@ namespace Movies_Presentation_Layer.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest(ModelState.Values.SelectMany(value => value.Errors));
+                return BadRequest( ModelState.Values);
             }
             var result = await _userRepository.GetByAsync(user => user.Email.Equals(loginDto.Email) && user.Password == loginDto.Password);
             if (result.Count()==0)
