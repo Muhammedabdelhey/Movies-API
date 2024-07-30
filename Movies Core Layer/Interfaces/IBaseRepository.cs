@@ -11,7 +11,7 @@ namespace Movies_Core_Layer.Interfaces
         /// <summary>
         /// Retrieves all entities of type <typeparamref name="T"/> from the database.
         /// </summary>
-        /// <returns>An IEnumerable of entities.</returns>
+        /// <returns>An IEnumerable of entities of type <typeparamref name="T"/>.</returns>
         Task<IEnumerable<T>> GetAllAsync();
 
         /// <summary>

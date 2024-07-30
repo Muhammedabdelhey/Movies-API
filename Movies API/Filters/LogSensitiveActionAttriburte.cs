@@ -10,6 +10,11 @@ namespace Movies_With_Reopsitory_Pattren.Filters
         {
             Debug.WriteLine("Executing Sensitive Data !!!!!!!!!!!!!!!!!!!!!");
         }
+        public override async Task OnActionExecutionAsync(ActionExecutingContext context, ActionExecutionDelegate next)
+        {
+            Debug.WriteLine("Executing Sensitive Data !!!!!!!!!!!!!!!!!!!!!");
+            await next();
+        }
         public override void OnActionExecuted(ActionExecutedContext context)
         {
             Debug.WriteLine("Sensitive Data Executed !!!!!!!!!!!!!!!!!!!!!!");

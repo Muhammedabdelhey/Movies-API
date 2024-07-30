@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Movies Core Layer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+960ad016e69300c790839501fae2dcbbc3536d39")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2ea4977f798b2a4dc27cf0fa257b90abc76b4e9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Movies Core Layer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Movies Core Layer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

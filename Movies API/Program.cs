@@ -99,7 +99,7 @@ builder.Services.AddAuthentication().AddJwtBearer(JwtBearerDefaults.Authenticati
         ValidAudience = JwtOptions.Audience,
         ValidateIssuerSigningKey = true,
         //we craete signing key should converted to bytes here 
-        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtOptions.SigningKey)) 
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtOptions.SigningKey))
     };
 });
 #endregion
@@ -121,10 +121,16 @@ app.UseHttpsRedirection();
 
 app.UseCors(c => c.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin());
 
+app.UseAuthentication();
+
 app.UseAuthorization();
 
 #region Middleware
 //######################### Register custom Middlewares ######################################
+// you can regstier by (Using => take logic inline , UseMiddleware => take class ,
+// run => Middleware without next(terminal Middlewere) , and Map => make middlewere for spacifc Paths ,can write middlewere inline or in class)
+// place middleware based on what will do the order of middleware can effect of his behavior
+//if you put  rate limit MW before swagger this will add swagger requests to counter and the behavior will not correct
 app.UseMiddleware<ProfilingMiddleware>();
 app.UseMiddleware<RateLimitingMiddleware>();
 #endregion

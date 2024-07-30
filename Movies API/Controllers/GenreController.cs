@@ -16,7 +16,10 @@ namespace Movies_With_Reopsitory_Pattren.Controllers
     public class GenreController : ControllerBase
     {
         private readonly IBaseRepository<Genre> _genreRepository;
-
+        #region declare delegate and event
+        public delegate void GenraChanged(Genre genre);
+        public event GenraChanged OnGenraChanged;
+        #endregion
         public GenreController(IBaseRepository<Genre> genreRepository)
         {
             _genreRepository = genreRepository;
@@ -59,6 +62,8 @@ namespace Movies_With_Reopsitory_Pattren.Controllers
 
             genre.Name = genreDto.Name;
             await _genreRepository.UpdateAsync(genre);
+            // call event , check handler
+            OnGenraChanged?.Invoke(genre);
             return Ok(genre);
         }
 
@@ -73,5 +78,13 @@ namespace Movies_With_Reopsitory_Pattren.Controllers
             await _genreRepository.DeleteAsync(genre);
             return Ok(genre);
         }
+        //#region regster event testing only
+        //var genre = new GenreController();
+        //genre.OnGenraChanged += Genre_OnGenraChanged;
+        //private void Genre_OnGenraChanged(Genre genre)
+        //{
+        //    throw new NotImplementedException();
+        //}
+        //#endregion
     }
 }

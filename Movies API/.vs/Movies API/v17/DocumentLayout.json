@@ -3,16 +3,58 @@
   "WorkspaceRootPath": "D:\\Abdelhay projects\\Movies-API\\Movies API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|d:\\abdelhay projects\\movies-api\\movies api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|d:\\abdelhay projects\\movies-api\\movies api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6086819A-C4C0-4942-B2AF-FB95C3B598DB}|..\\Movies Data Access Layer.EF\\Movies Data Access Layer.EF.csproj|d:\\abdelhay projects\\movies-api\\movies data access layer.ef\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC27B4-CADC-458D-B505-8D51263C1B5D}|..\\Movies Core Layer\\Movies Core Layer.csproj|d:\\abdelhay projects\\movies-api\\movies core layer\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:controllers\\configcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|d:\\abdelhay projects\\movies-api\\movies api\\controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:controllers\\genrecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56CC27B4-CADC-458D-B505-8D51263C1B5D}|..\\Movies Core Layer\\Movies Core Layer.csproj|d:\\abdelhay projects\\movies-api\\movies core layer\\models\\attachmentsoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6086819A-C4C0-4942-B2AF-FB95C3B598DB}|..\\Movies Data Access Layer.EF\\Movies Data Access Layer.EF.csproj|d:\\abdelhay projects\\movies-api\\movies data access layer.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC27B4-CADC-458D-B505-8D51263C1B5D}|..\\Movies Core Layer\\Movies Core Layer.csproj|d:\\abdelhay projects\\movies-api\\movies core layer\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\filters\\logsensitiveactionattriburte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:filters\\logsensitiveactionattriburte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\filters\\logactivityfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:filters\\logactivityfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|D:\\Abdelhay projects\\Movies-API\\Movies API\\middlewares\\ratelimitingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:middlewares\\ratelimitingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CC27B4-CADC-458D-B505-8D51263C1B5D}|..\\Movies Core Layer\\Movies Core Layer.csproj|d:\\abdelhay projects\\movies-api\\movies core layer\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{56CC27B4-CADC-458D-B505-8D51263C1B5D}|..\\Movies Core Layer\\Movies Core Layer.csproj|d:\\abdelhay projects\\movies-api\\movies core layer\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -25,10 +67,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{56CC27B4-CADC-458D-B505-8D51263C1B5D}|..\\Movies Core Layer\\Movies Core Layer.csproj|d:\\abdelhay projects\\movies-api\\movies core layer\\models\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|d:\\abdelhay projects\\movies-api\\movies api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3D40AC8F-E0D1-484C-B1C4-443AC8579368}|Movies Presentation Layer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,36 +75,21 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "DockedWidth": 212,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-25T06:31:31.915Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAUAAAAAAAAAAABRwBEAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-03-25T06:30:12.303Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -74,11 +97,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Bookmark",
@@ -125,34 +148,187 @@
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
-              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "Controllers\\AuthController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:33:26.533Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAA8AAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:19:59.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-16T07:19:30.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "GenreController.cs",
               "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\GenreController.cs",
               "RelativeDocumentMoniker": "Controllers\\GenreController.cs",
               "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\GenreController.cs",
               "RelativeToolTip": "Controllers\\GenreController.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "ViewState": "AQIAABwAAAAAAAAAAAAawDIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T08:34:15.882Z",
+              "WhenOpened": "2024-06-26T12:04:37.254Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "IBaseRepository.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Interfaces\\IBaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Movies Core Layer\\Interfaces\\IBaseRepository.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Interfaces\\IBaseRepository.cs",
+              "RelativeToolTip": "..\\Movies Core Layer\\Interfaces\\IBaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T07:18:01.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LogActivityFilter.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Filters\\LogActivityFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\LogActivityFilter.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Filters\\LogActivityFilter.cs",
+              "RelativeToolTip": "Filters\\LogActivityFilter.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:07:11.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConfigController.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\ConfigController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ConfigController.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\ConfigController.cs",
+              "RelativeToolTip": "Controllers\\ConfigController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T11:44:45.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RateLimitingMiddleware.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Middlewares\\RateLimitingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middlewares\\RateLimitingMiddleware.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Middlewares\\RateLimitingMiddleware.cs",
+              "RelativeToolTip": "Middlewares\\RateLimitingMiddleware.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:51:27.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Data Access Layer.EF\\Repositories\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "..\\Movies Data Access Layer.EF\\Repositories\\BaseRepository.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies Data Access Layer.EF\\Repositories\\BaseRepository.cs",
+              "RelativeToolTip": "..\\Movies Data Access Layer.EF\\Repositories\\BaseRepository.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAmwE8AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T07:32:49.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AttachmentsOptions.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\AttachmentsOptions.cs",
+              "RelativeDocumentMoniker": "..\\Movies Core Layer\\Models\\AttachmentsOptions.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\AttachmentsOptions.cs",
+              "RelativeToolTip": "..\\Movies Core Layer\\Models\\AttachmentsOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T07:20:37.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LogSensitiveActionAttriburte.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Filters\\LogSensitiveActionAttriburte.cs",
+              "RelativeDocumentMoniker": "Filters\\LogSensitiveActionAttriburte.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Filters\\LogSensitiveActionAttriburte.cs",
+              "RelativeToolTip": "Filters\\LogSensitiveActionAttriburte.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:07:04.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Data Access Layer.EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Movies Data Access Layer.EF\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies Data Access Layer.EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Movies Data Access Layer.EF\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:43:39.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "..\\Movies Core Layer\\Models\\Genre.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\Genre.cs",
+              "RelativeToolTip": "..\\Movies Core Layer\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:20:11.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAvwBgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T08:33:26.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "..\\Movies Core Layer\\Models\\Movie.cs",
+              "ToolTip": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\Movie.cs",
+              "RelativeToolTip": "..\\Movies Core Layer\\Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T09:20:19.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\User.cs",
               "RelativeDocumentMoniker": "..\\Movies Core Layer\\Models\\User.cs",
@@ -160,12 +336,11 @@
               "RelativeToolTip": "..\\Movies Core Layer\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:45:19.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:45:19.863Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Dtos\\LoginDto.cs",
               "RelativeDocumentMoniker": "..\\Movies Core Layer\\Dtos\\LoginDto.cs",
@@ -173,12 +348,11 @@
               "RelativeToolTip": "..\\Movies Core Layer\\Dtos\\LoginDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:44:58.76Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:44:58.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 17,
               "Title": "UserDto.cs",
               "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Dtos\\UserDto.cs",
               "RelativeDocumentMoniker": "..\\Movies Core Layer\\Dtos\\UserDto.cs",
@@ -186,12 +360,11 @@
               "RelativeToolTip": "..\\Movies Core Layer\\Dtos\\UserDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:44:48.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:44:48.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 18,
               "Title": "JwtOptions.cs",
               "DocumentMoniker": "D:\\Abdelhay projects\\Movies-API\\Movies Core Layer\\Models\\JwtOptions.cs",
               "RelativeDocumentMoniker": "..\\Movies Core Layer\\Models\\JwtOptions.cs",
@@ -199,15 +372,18 @@
               "RelativeToolTip": "..\\Movies Core Layer\\Models\\JwtOptions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T07:26:11.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T07:26:11.457Z"
             }
           ]
         },
         {
-          "DockedWidth": 76,
+          "DockedWidth": 200,
           "SelectedChildIndex": -1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
