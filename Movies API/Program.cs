@@ -10,6 +10,7 @@ using Movies_With_Reopsitory_Pattren.Authentication;
 using Movies_With_Reopsitory_Pattren.Filters;
 using Movies_With_Reopsitory_Pattren.Middlewares;
 using System.Text;
+using static System.Net.Mime.MediaTypeNames;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -126,10 +127,49 @@ app.UseAuthentication();
 app.UseAuthorization();
 
 #region Middleware
-//######################### Register custom Middlewares ######################################
-// you can regstier by (Using => take logic inline , UseMiddleware => take class ,
-// run => Middleware without next(terminal Middlewere) , and Map => make middlewere for spacifc Paths ,can write middlewere inline or in class)
+//############ you can regstier by Using => take logic inline ###############################
+
+//app.Use(async (context, next) =>
+//{
+//    // Do work that can write to the Response.
+//    await next.Invoke();
+//    // Do logging or other work that doesn't write to the Response.
+//});
+
+//############### UseMiddleware => take class #############################################
+
+//app.UseMiddleware<ProfilingMiddleware>();
+
+//###############   run => Middleware without next(terminal Middlewere) #####################
+
+//app.Run(async context =>
+//{
+//    await context.Response.WriteAsync("Hello from 2nd delegate.");
+//});
+
+//############### Map => make middlewere for spacifc Paths ,can write middlewere inline or in class)###########
+
+//static void HandleMultiSeg(IApplicationBuilder app)
+//{
+//    app.Run(async context =>
+//    {
+//        await context.Response.WriteAsync("Map Test 1");
+//    });
+//}
+
+//app.Map("/map1/seg1", HandleMultiSeg);
+
+//app.Map("/level1", level1App => {
+//    level1App.Map("/level2a", level2AApp => {
+//        // "/level1/level2a" processing
+//    });
+//    level1App.Map("/level2b", level2BApp => {
+//        // "/level1/level2b" processing
+//    });
+//});
+//###########################################################################################
 // place middleware based on what will do the order of middleware can effect of his behavior
+
 //if you put  rate limit MW before swagger this will add swagger requests to counter and the behavior will not correct
 app.UseMiddleware<ProfilingMiddleware>();
 app.UseMiddleware<RateLimitingMiddleware>();
